@@ -36,7 +36,6 @@
 
 
 ## Connect with me  
-<table><tr><td valign="top" width="50%">
 
 <div align="center">
 <a href="https://github.com/hosanna-david" target="_blank">
@@ -47,12 +46,6 @@
 </a>  
 </div>  
 
-
-</td><td valign="top" width="50%">
-
-
-
-</td></tr></table>  
 
 <br/>  
 
