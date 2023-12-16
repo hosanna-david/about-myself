@@ -5,7 +5,7 @@
 
 ### <div align="center">Hi I'm Hosanna David, DevOps Engineer 👨‍💻 | AWS Certified | Azure Certified | Docker | Kubernetes 🚀</div>  
   
-🌱Skilled Cloud, DevOps Engineer and hands-on experience coding, scripting, supporting, testing, security, automating, version control and optimizing mission deployments in AWS and Azure, leveraging configuration management, and DevOps processes.   
+🌱 Skilled Cloud, DevOps Engineer and hands-on experience coding, scripting, supporting, testing, security, automating, version control and optimizing mission deployments in AWS and Azure, leveraging configuration management, and DevOps processes.   
   
 <br/>  
 
